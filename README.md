@@ -1,6 +1,6 @@
 <center>
 
-![Your Image]([https://example.com/your-image.png](https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true))
+![Your Image](https://example.com/your-image.png](https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true)
 
 </center>
 
