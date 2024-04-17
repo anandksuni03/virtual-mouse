@@ -1,20 +1,20 @@
-1. Project Title
+<h1>1.Virtual Mouse using Python</h1>
 
-Start with a clear and concise title that reflects your project's purpose.
+<pre>Start with a clear and concise title that reflects your project's purpose.
 
-2. Description
+<h2>2. Description</h2>
 
-This Python project creates a virtual mouse controlled by hand gestures using your webcam.<br>By tracking specific fingertips, it translates hand movements into cursor movement on the screen.<br> It also implements basic click gestures (left and right) based on fingertip proximity.<br> This is a great starting point for a more advanced hand gesture control system!
+<pre>This Python project creates a virtual mouse controlled by hand gestures using your webcam.<br>By tracking specific fingertips, it translates hand movements into cursor movement on the screen.<br> It also implements basic click gestures (left and right) based on fingertip proximity.<br> This is a great starting point for a more advanced hand gesture control system!
 
 
-3. Installation
+<h2>3. Installation</h2>
 
 * Bullet point 1 Download the entire file<br>
 * Bullet point 2 type "pip install -r requirements.txt" in the cmd<br>
 * Bullet point 3 Type "python virtual-mouse.py"<br>
 
 
-4. Features (Optional)
+<h2>4. Features (Optional)</h2>
 
 * Bullet point 1 It captures video from the webcam.<br>
 * Bullet point 2 Detects hands using MediaPipe.<br>
