@@ -3,7 +3,7 @@
   <img src="https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true" alt="Your Image">
 </p>
 
-  <h1 align="centre"><u>Virtual Mouse using Python</u></h1>
+  <h1 align="centre">Virtual Mouse using Python</h1>
 
 
 
