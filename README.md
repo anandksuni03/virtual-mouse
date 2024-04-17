@@ -2,10 +2,10 @@
 <p align="center">
   <img src="https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true" alt="Your Image">
 </p>
-
-<p align="center">
+<centre>
   <h1><u>Virtual Mouse using Python</u></h1>
-</p>
+</centre>
+
 
 
 
