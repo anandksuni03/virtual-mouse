@@ -25,7 +25,7 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 
 * Bullet point 1 Download the entire file<br>
 * Ttype "pip install -r requirements.txt" in the cmd<br>
-* Type "python virtual-mouse.py"<br>
+* Run the code<br>
 
 
 <h1>3. Features </h1>
