@@ -9,7 +9,7 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 
 3. Installation
 
-<img src="https://example.com/arrow.png" alt="Arrow"> Download the entire file<br>
+* Bullet point 1 Download the entire file<br>
 <img src="https://example.com/arrow.png" alt="Arrow"> type "pip install -r requirements.txt" in the cmd<br>
 <img src="https://example.com/arrow.png" alt="Arrow"> Type "python virtual-mouse.py"<br>
 
