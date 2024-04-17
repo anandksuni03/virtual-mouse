@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true" alt="Your Image">
 </p>
-<centre>
-  <h1><u>Virtual Mouse using Python</u></h1>
-</centre>
+
+  <h1 align= "centre"><u>Virtual Mouse using Python</u></h1>
+
 
 
 
