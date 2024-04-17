@@ -1,6 +1,7 @@
 <h1><u>1.Virtual Mouse using Python</u></h1>
 
-Start with a clear and concise title that reflects your project's purpose.
+
+
 
 <h1>2. Description</h1>
 
