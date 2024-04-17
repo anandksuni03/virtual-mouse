@@ -9,18 +9,18 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 
 3. Installation
 
-&#8594 Download the entire file<br>
-&#8594 type "pip install -r requirements.txt" in the cmd<br>
-&#8594 Type "python virtual-mouse.py"<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Download the entire file<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> type "pip install -r requirements.txt" in the cmd<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Type "python virtual-mouse.py"<br>
 
 
 4. Features (Optional)
 
-&#8594 It captures video from the webcam.<br>
-&#8594 Detects hands using MediaPipe.<br>
-&#8594 Tracks specific hand landmarks (index fingertip, middle fingertip, thumb tip).<br>
-&#8594 Maps hand movement to cursor movement on the screen.<br>
-&#8594 Implements a click gesture (left or right) based on the distance between fingertips.<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> It captures video from the webcam.<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Detects hands using MediaPipe.<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Tracks specific hand landmarks (index fingertip, middle fingertip, thumb tip).<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Maps hand movement to cursor movement on the screen.<br>
+<img src="https://example.com/arrow.png" alt="Arrow"> Implements a click gesture (left or right) based on the distance between fingertips.<br>
 
 ----I had commented to explain the function of the line of code---
 
