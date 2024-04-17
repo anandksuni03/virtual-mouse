@@ -14,7 +14,7 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 * Type "python virtual-mouse.py"<br>
 
 
-<h1>4. Features (Optional)</h1>
+<h1>4. Features </h1>
 
 *  It captures video from the webcam.<br>
 *  Detects hands using MediaPipe.<br>
