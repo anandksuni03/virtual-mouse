@@ -36,6 +36,12 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 *  Maps hand movement to cursor movement on the screen.<br>
 *  Implements a click gesture (left or right) based on the distance between fingertips.<br>
 
+<h1>4. User Manual</h1>
+*  For left click join the index finger and thumb
+*  for right click join the middle and thump finger
+*  move the finger for navigating the mouse pointer
+*  to exit the program hit "q"
+
 ----I had commented to explain the function of the line of code---
 
 ---to get index points visit mediapipe documentation---
