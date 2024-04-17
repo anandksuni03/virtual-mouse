@@ -1,6 +1,9 @@
-<centre>
-<img src="https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true"  align="centre">
-</centre>
+<center>
+
+![Your Image]([https://example.com/your-image.png](https://github.com/anandksuni03/virtual-mouse/blob/main/vm.png?raw=true))
+
+</center>
+
 <h1><u>Virtual Mouse using Python</u></h1>
 
 
