@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# mouse
+# Virtual Mouse Using Python
 
 </div>
 
