@@ -4,19 +4,24 @@ Start with a clear and concise title that reflects your project's purpose.
 
 2. Description
 
-Provide a brief explanation of what your project does and the problem it solves.
+This Python project creates a virtual mouse controlled by hand gestures using your webcam.<br>By tracking specific fingertips, it translates hand movements into cursor movement on the screen.<br> It also implements basic click gestures (left and right) based on fingertip proximity.<br> This is a great starting point for a more advanced hand gesture control system!
+
 
 3. Installation
 
-If your project has dependencies, list them here with instructions on installation (e.g., pip install <dependency_name>).
-Mention any specific Python version requirements.
-4. Usage
+&#8594 Download the entire file<br>
+&#8594 type "pip install -r requirements.txt" in the cmd<br>
+&#8594 Type "python virtual-mouse.py"<br>
 
-Explain how to run your Python script(s).
-Include examples of commands or code snippets for common usage scenarios.
-5. Features (Optional)
 
-If your project has distinct functionalities, provide an overview of each.
-6. Contributing (Optional)
+4. Features (Optional)
 
-If you welcome contributions, outline the process for others to get involved (e.g., forking, pull requests).
+&#8594 It captures video from the webcam.<br>
+&#8594 Detects hands using MediaPipe.<br>
+&#8594 Tracks specific hand landmarks (index fingertip, middle fingertip, thumb tip).<br>
+&#8594 Maps hand movement to cursor movement on the screen.<br>
+&#8594 Implements a click gesture (left or right) based on the distance between fingertips.<br>
+
+----I had commented to explain the function of the line of code---
+
+---to get index points visit mediapipe documentation---
