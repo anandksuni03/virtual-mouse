@@ -38,9 +38,14 @@ This Python project creates a virtual mouse controlled by hand gestures using yo
 
 <h1>4. User Manual</h1>
 *  For left click join the index finger and thumb.<br>
-*  for right click join the middle and thump finger.<br>
-*  move the finger for navigating the mouse pointer.<br>
+*  
+* 
 *  to exit the program hit "q".<br>
+*  For left click join the index finger and thumb.<br>
+*  for right click join the middle and thump finger.<br>
+*   move the finger for navigating the mouse pointer.<br>
+*  Maps hand movement to cursor movement on the screen.<br>
+*  Implements a click gesture (left or right) based on the distance between fingertips.<br>
 
 ----I had commented to explain the function of the line of code---
 
