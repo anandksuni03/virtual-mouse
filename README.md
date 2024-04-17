@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Virtual Mouse using Python</b>
+  <b><h1>Virtual Mouse using Python</h1></b>
 </p>
   
 
